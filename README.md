@@ -1,2 +1,2 @@
 # Frogger
-a frogger game made on logisim 
+a frogger game made using Mars 
